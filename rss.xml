@@ -4,21 +4,21 @@
         <description><![CDATA[Stephen Bauman Artworks]]></description>
         <link>https://thegrid.ai/stephen-bauman-artworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 09:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 09:48:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stephen-bauman-artworks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[End Of The Night]]></title>
+            <description><![CDATA[<article><h1>End Of The Night</h1><p>Graphite on paper</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf9fe02a-8d8d-4025-8fd7-20d84a4482bd.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf9fe02a-8d8d-4025-8fd7-20d84a4482bd.jpg</link>
+            <guid isPermaLink="false">97bc242b-3e52-4b4f-89d2-f0595237fc79</guid>
+            <pubDate>Thu, 04 Aug 2016 09:46:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When I Was Young]]></title>
             <description><![CDATA[<article><h1>When I Was Young</h1><p>Oil on canvas</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c5b06ce-bcd8-48a1-be36-0c0ae703d0e0.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c5b06ce-bcd8-48a1-be36-0c0ae703d0e0.jpg</link>
             <guid isPermaLink="false">b8e23172-cd4e-4984-890c-c66f69e750f8</guid>
             <pubDate>Thu, 04 Aug 2016 09:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/028a3d40-cae1-4054-ac95-29a235f267ea.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/028a3d40-cae1-4054-ac95-29a235f267ea.jpg</link>
-            <guid isPermaLink="false">70e019c3-d061-4cf0-8650-97347e7287a1</guid>
-            <pubDate>Thu, 04 Aug 2016 09:40:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
