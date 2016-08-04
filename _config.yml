@@ -12,14 +12,14 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.932933
-  brandStrength: 0.8922306
+  brandStrength: 0.3765664
   lightness: 0.3182957
   brandColors:
-    - '#050713'
-    - '#292F49'
-    - '#5F728A'
-    - '#4F4F67'
-    - '#718DB4'
+    - '#746967'
+    - '#9F7C01'
+    - '#161421'
+    - '#3F3F57'
+    - '#AE8F86'
   rhythmicContrast: 0.5469925
 typography_spectrum: 1
 layout_spectrum: 0.03634085
