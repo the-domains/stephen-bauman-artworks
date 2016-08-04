@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 1
 color:
   saturation: 0.932933
   brandStrength: 0.3765664
@@ -21,6 +22,5 @@ color:
     - '#3F3F57'
     - '#AE8F86'
   rhythmicContrast: 0.5469925
-typography_spectrum: 1
-layout_spectrum: 0.03634085
+layout_spectrum: 0.2988722
 name: Stephen Bauman Artworks
