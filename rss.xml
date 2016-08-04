@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stephen Bauman Artworks]]></title>
+        <description><![CDATA[Stephen Bauman Artworks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 09:40:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/028a3d40-cae1-4054-ac95-29a235f267ea.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/028a3d40-cae1-4054-ac95-29a235f267ea.jpg</link>
+            <guid isPermaLink="false">70e019c3-d061-4cf0-8650-97347e7287a1</guid>
+            <pubDate>Thu, 04 Aug 2016 09:40:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
