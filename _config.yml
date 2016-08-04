@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
   saturation: 0.932933
-  lightness: 0.3182957
   brandStrength: 0.5031328
+  rhythmicContrast: 0.5469925
   brandColors:
     - '#131017'
     - '#3C3A48'
     - '#4E5F73'
     - '#6F798C'
     - '#C0A170'
-  rhythmicContrast: 0.5469925
-typography_spectrum: 1
+  lightness: 0.3182957
+layout_spectrum: 1
 name: Stephen Bauman Artworks
