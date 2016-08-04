@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.932933
-  brandStrength: 0.5031328
-  rhythmicContrast: 0.5469925
-  brandColors:
-    - '#131017'
-    - '#3C3A48'
-    - '#4E5F73'
-    - '#6F798C'
-    - '#C0A170'
+  brandStrength: 0.8922306
   lightness: 0.3182957
+  brandColors:
+    - '#050713'
+    - '#292F49'
+    - '#5F728A'
+    - '#4F4F67'
+    - '#718DB4'
+  rhythmicContrast: 0.5469925
 typography_spectrum: 1
 layout_spectrum: 0.03634085
 name: Stephen Bauman Artworks
