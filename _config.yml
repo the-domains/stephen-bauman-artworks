@@ -10,9 +10,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
 color:
-  saturation: 0.306391
+  saturation: 0.5958647
   brandStrength: 0.3765664
   lightness: 0.3182957
   brandColors:
@@ -21,6 +20,7 @@ color:
     - '#161421'
     - '#3F3F57'
     - '#AE8F86'
-  rhythmicContrast: 0.5469925
+  rhythmicContrast: 1
+typography_spectrum: 1
 layout_spectrum: 1
 name: Stephen Bauman Artworks
