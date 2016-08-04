@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stephen Bauman Artworks]]></title>
+        <description><![CDATA[Stephen Bauman Artworks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 11:43:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Girl With A Coin]]></title>
+            <description><![CDATA[<article><h1>Girl With A Coin</h1><p>Oil on canvas</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba4934d5-9fd9-4921-bdf2-ab67fa48353b.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba4934d5-9fd9-4921-bdf2-ab67fa48353b.jpg</link>
+            <guid isPermaLink="false">4fbc615d-cda0-4f42-958d-7fef9d0bc1ee</guid>
+            <pubDate>Thu, 04 Aug 2016 11:43:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
