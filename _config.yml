@@ -12,8 +12,8 @@ collections:
       number: 10
 typography_spectrum: 1
 color:
-  saturation: 0.6842105
-  brandStrength: 0.3765664
+  saturation: 0
+  brandStrength: 1
   lightness: 0
   brandColors:
     - '#746967'
