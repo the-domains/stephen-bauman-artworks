@@ -16,11 +16,11 @@ color:
   brandStrength: 0.9931078
   lightness: 0.622807
   brandColors:
-    - '#034D4C'
-    - '#2CB3B7'
-    - '#3C8080'
-    - '#FE77AF'
-    - '#978B9B'
+    - '#BF9FA0'
+    - '#DAB7B7'
+    - '#967878'
+    - '#603A30'
+    - '#7C544D'
   rhythmicContrast: 0.6798246
-layout_spectrum: 0.7005013
+layout_spectrum: 0.6328321
 name: Stephen Bauman Artworks
